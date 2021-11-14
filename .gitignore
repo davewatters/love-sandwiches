@@ -8,4 +8,4 @@ node_modules/
 .github/
 creds.json
 .venv/
-.vscode/
+.vscode/settings.json
